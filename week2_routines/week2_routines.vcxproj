@@ -66,6 +66,9 @@
   <ItemGroup>
     <ClCompile Include="Исходный код.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mystring.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
